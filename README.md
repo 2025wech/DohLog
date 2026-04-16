@@ -67,7 +67,7 @@
 
 ## Privacy Policy
 
-AutoLedger does not collect, transmit, or store any data outside 
+This AutoLedger does not collect, transmit, or store any data outside 
 your device. SMS messages are read locally, parsed locally, and 
 stored locally in a Room SQLite database. No analytics, no ads, 
 no tracking.
@@ -76,7 +76,7 @@ no tracking.
 
 ## Developer
 
-**Wawer**  
+**Waweru**  
 Android Developer — Built with ❤️ in Kenya 🇰🇪
 
 ---
